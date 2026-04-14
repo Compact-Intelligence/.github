@@ -5,5 +5,6 @@ Compact Intelligence is a group of developers and ordinary people upset with the
 ## Our Goal
 Our goal is to create state-of-the-art AI models that can run on virtually *any* device.
 ## Roadmap
-1. Create and Deploy Initial 250,000 Parameter Model (In progress)
-2. TBD
+1. Create and Deploy Initial Model under 500,000 Parameters (In progress)
+2. Optimize Model and Cut Down to 250,000 Parameters
+3. Begin Work On Code Debugging Model At Ten Million Parameters Or Less
