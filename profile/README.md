@@ -7,4 +7,4 @@ Our goal is to create state-of-the-art AI models that can run on virtually *any*
 ## Roadmap
 1. Create and Deploy Initial Model under 500,000 Parameters (In progress)
 2. Optimize Model and Cut Down to 250,000 Parameters
-3. Begin Work On Code Debugging Model At Ten Million Parameters Or Less
+3. Begin Work On Conversational Model at 5 Million Parameters or Less
