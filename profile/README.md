@@ -5,5 +5,5 @@ Compact Intelligence is a group of developers and ordinary people upset with the
 ## Our Goal
 Our goal is to create state-of-the-art AI models that can run on virtually *any* device.
 ## Roadmap
-1. Create and Deploy a sub 1 million parameter story telling ai model
+1. Create and Deploy a working story telling AI model smaller than Microsoft's TinyStories model.
 2. Begin Experimentation with Application Specific AI (ASAI)
